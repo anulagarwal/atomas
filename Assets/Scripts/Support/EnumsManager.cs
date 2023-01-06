@@ -53,10 +53,9 @@ public enum PlayerType
     Pro
 }
 
-public enum TileState
+public enum CircleType
 {
-
-    New,
-    Wall,
-    Cat
+    Normal,
+    Powerup,
+    Pizza
 }
