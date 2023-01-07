@@ -8,6 +8,8 @@ public class Circle : MonoBehaviour
     [SerializeField] int index;
     [SerializeField] CircleType type;
     [SerializeField] public float angle;
+    [SerializeField] public int value;
+
 
     // Start is called before the first frame update
     void Start()
